@@ -11,7 +11,7 @@ Para ello, se nos dan los datos sobre muestras de crudo de tres regiones.
 
 Ya se conocen los parámetros de cada pozo petrolero de la región, por lo que vamos a crear un modelo que ayude a elegir la región con el mayor margen de beneficio, tomandose a consideración que, una unidad de producto es igual a 1000 barriles, donde cada barril representa 4.5 USD de ingresos, por lo que una unidad representa 4,500 USD de ingresos, y el presupuesto para el desarrollo de 200 pozos es de 100 millones de USD.
 
-Al final se analiza los beneficios y riesgos potenciales utilizando la técnica bootstrapping de 1000 muestras y con un intervalo de confianza del 95%.
+Al final se analiza los beneficios y riesgos potenciales **utilizando la técnica bootstrapping** de 1000 muestras y con un **intervalo de confianza del 95%**.
 
 ## Tabla de conteidos del proyecto
 
