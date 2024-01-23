@@ -33,7 +33,7 @@ Al final se analiza los beneficios y riesgos potenciales **utilizando la técnic
 `sklearn` 
 
 ## Resultados
-Se encontró que de las tres regiones analizadas, la **región 1** es la que da una mejor fiabilidad para hacer la extracción de petroleo en 200 pozos, dado su **bajo RECM** y también a que **se predice un mayor voluemn de reservas**.
+Se encontró que de las tres regiones analizadas, la **región 1** es la que da una mejor fiabilidad para hacer la extracción de petroleo en 200 pozos, dado su **bajo RECM** y también a que **se predice un mayor volumen de reservas**.
 
 Dada la **inversión de 100 millones de USD**, se espera que **en promedio la ganancia por pozo sea 4,537,178.95 de USD** con un **riesgo del 1.6%**, lo cual le puede dar mucha confianza a la empresa `Oily Giant` de relizar su extración en la región 1. 
 
